@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am testthatnow on github.
+  * I am crpytoafrojack (https://keybase.io/crpytoafrojack) on keybase.
+  * I have a public key ASAAlwCpsYMCrIaDgcJkKP0upusfE5HHFJh7vtsVQ3XXcQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120009700a9b18302ac868381c26428fd2ea6eb1f1391c714987bbedb154375d7710a",
+      "host": "keybase.io",
+      "kid": "0120009700a9b18302ac868381c26428fd2ea6eb1f1391c714987bbedb154375d7710a",
+      "uid": "33f62e7913431dbc23eb7cc13e55dd19",
+      "username": "crpytoafrojack"
+    },
+    "merkle_root": {
+      "ctime": 1568093207,
+      "hash": "6f89e692269b5ef402167ab8d1db66e3d8fd060ea8d556e18c60c5c0fb70e72d3065279701886e78815a51301686c2332ec2ed07ea0e75d1ff926af0bce5cfb6",
+      "hash_meta": "393dd1b0903c4c5b194634cb20492502a886d16035d4386119f6bb5a5acfd825",
+      "seqno": 6319365
+    },
+    "service": {
+      "entropy": "sxGTDKN9f8aWE/f3qddapuL4",
+      "name": "github",
+      "username": "testthatnow"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568093214,
+  "expire_in": 504576000,
+  "prev": "eb4d633ac16a57be4e16548677b37090a54cc317a6f9ae2bc35020c0f6afbb4c",
+  "seqno": 22,
+  "tag": "signature"
+}
+```
+
+with the key [ASAAlwCpsYMCrIaDgcJkKP0upusfE5HHFJh7vtsVQ3XXcQo](https://keybase.io/crpytoafrojack), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAJcAqbGDAqyGg4HCZCj9LqbrHxORxxSYe77bFUN113EKp3BheWxvYWTESpcCFsQg601jOsFqV75OFlSGd7NwkKVMwxem+a4rw1AgwPavu0zEICl6K5FiCHjTlB7qKwm/O6vy7BciXrvQJAaCfpGNFc3LAgHCo3NpZ8RA72+GzkQ7Fz9nuCAquXhbEnur/1ceAOgOV7ilJEJxZtBUdJhT9JFbnEhFlULlhPmz8XlPWzYnTnR+UwXtJec2DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOFGObn7d6YbOK5zVUsIvxPgEE4YrBp2U5pZKF2t3jZ0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/crpytoafrojack
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id crpytoafrojack
+```
